@@ -1,0 +1,38 @@
+IsActive,Name,IsNewsOrganization,NewsOrganization,URL,RSSURL,Comment
+1,Browsa,0,,http://browsa.se/,http://browsa.se/feed/,
+1,Brutalt,0,,http://www.brutalt.se/,http://www.brutalt.se/feed/,
+1,Delbart,0,,http://delbart.se/,http://delbart.se/feed/,
+1,Finkammat,0,,http://finkammat.se/,,
+1,Geddit,1,Nyheter24,http://nyheter24.se/geddit,http://rss.nyheter24.se/geddit,
+1,Gilla,0,,http://gilla.se/,http://gilla.se/feed/,
+1,Gurra gillar,0,,http://www.gurragillar.se/feed/,http://www.gurragillar.se/feed/,
+1,Hetare,0,,http://hetare.se/,http://hetare.se/feed/,
+1,Historierna,0,,http://historierna.cc,,
+1,Klustrat,0,,http://klustrat.se/,,verkar syndikera Viralking/Uppskattat/Noted
+1,Lajkat,1,Aftonbladet,http://lajkat.aftonbladet.se/,http://lajkat.aftonbladet.se/feed/,
+1,Lajvo,0,,https://www.lajvo.se/,,
+1,Newsner,0,,http://www.newsner.com/,,
+1,Noted,0,,http://noted.se/,,
+1,Omtalat,1,Expressen,http://www.expressen.se/omtalat/,,
+1,Satiren,0,,http://satiren.se/,http://satiren.se/feed/,
+1,Skrolla,0,,http://skrolla.se/,http://skrolla.se/feed,
+1,Uppskattat,0,,http://uppskattat.se/,http://uppskattat.se/feed/,
+1,Viralking,0,,http://viralking.se/,http://viralking.se/feed/,
+1,Viralsport,0,,http://viralspot.se/,http://www.viralspot.se/feed/,
+1,Viralt,1,Aftonbladet,http://viralt.aftonbladet.se/,http://viralt.aftonbladet.se/feed/,
+1,Zappat,0,,http://zappat.se/,https://zappat.se/feed/,
+1,Hyllat,0,,http://hyllat.se/,http://hyllat.se/feed/,
+1,Inzoomat,0,,http://inzoomat.se/,http://inzoomat.se/feed/,
+0,Hedrad,0,,http://hedrad.se/,,domänen är aktiv men sidan fungerar ej
+0,Klickfisken,0,,http://klickfisken.se/,,ej funnen 2016-09-03
+0,Sedet,0,,http://sedet.nu/,,ej funnen 2016-09-03
+0,Slajkat,0,,http://slajkat.se/,,ej funnen 2016-09-03
+0,Snatter,0,,http://snatter.se/,,HTTP 500 felmeddelande 2016-09-03 vilket även var indexerat på Google så den underhålls nog inte
+0,Sportfeed,0,,http://sportfeed.se/,,omdirigerad till http://www.expressen.se/sport/sportfeed/
+0,Svenskaklipp,0,,http://svenskaklipp.se/,,domänen är aktiv men sidan finns ej
+0,Viralmonkey,0,,http://viralmonkey.se/,,ej funnen 2016-09-03
+0,Viralmood,0,,http://viralmood.se/,,ej funnen 2016-09-03
+0,Viralshoot,0,,http://viralshoot.se/,,en onlineshop för kläder nu
+0,Viralstar,0,,http://viralstar.se/,,domän ej funnen 2016-09-03
+0,Younews,0,,http://younews.se/,,domän ej funnen 2016-09-03
+0,Gilladjur,0,,http://gilladjur.se/,,omdirigeras till http://www.expressen.se/omtalat/livet/
