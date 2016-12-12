@@ -5,9 +5,9 @@ IsActive,Name,IsNewsOrganization,NewsOrganization,URL,RSSURL,Comment
 1,Finkammat,0,,http://finkammat.se/,,
 1,Geddit,1,Nyheter24,http://nyheter24.se/geddit,http://rss.nyheter24.se/geddit,
 1,Gilla,0,,http://gilla.se/,http://gilla.se/feed/,
-1,Gurra gillar,0,,http://www.gurragillar.se/feed/,http://www.gurragillar.se/feed/,
+1,Gurra gillar,0,,http://www.gurragillar.se/,http://www.gurragillar.se/feed/,
 1,Hetare,0,,http://hetare.se/,http://hetare.se/feed/,
-1,Historierna,0,,http://historierna.cc,,
+1,Historierna,0,,http://historierna.cc/,,
 1,Klustrat,0,,http://klustrat.se/,,verkar syndikera Viralking/Uppskattat/Noted
 1,Lajkat,1,Aftonbladet,http://lajkat.aftonbladet.se/,http://lajkat.aftonbladet.se/feed/,
 1,Lajvo,0,,https://www.lajvo.se/,,
