@@ -11,6 +11,7 @@ IsActive,Name,IsNewsOrganization,NewsOrganization,URL,RSSURL,Comment
 1,Klustrat,0,,http://klustrat.se/,,verkar syndikera Viralking/Uppskattat/Noted
 1,Lajkat,1,Aftonbladet,http://lajkat.aftonbladet.se/,http://lajkat.aftonbladet.se/feed/,
 1,Lajvo,0,,https://www.lajvo.se/,,
+1,Mysigast,0,,http://www.mysigast.se/,http://www.mysigast.se/feed/,
 1,Newsner,0,,http://www.newsner.com/,,
 1,Noted,0,,http://noted.se/,,
 1,Omtalat,1,Expressen,http://www.expressen.se/omtalat/,,
