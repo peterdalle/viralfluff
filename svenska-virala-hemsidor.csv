@@ -18,6 +18,7 @@ IsActive,Name,IsNewsOrganization,NewsOrganization,URL,RSSURL,Comment
 1,Satiren,0,,http://satiren.se/,http://satiren.se/feed/,
 1,Skrolla,0,,http://skrolla.se/,http://skrolla.se/feed,
 1,Uppskattat,0,,http://uppskattat.se/,http://uppskattat.se/feed/,
+1,Viralt Idag,0,,http://www.viraltidag.com/,http://www.viraltidag.com/feed/,
 1,Viralking,0,,http://viralking.se/,http://viralking.se/feed/,
 1,Viralsport,0,,http://viralspot.se/,http://www.viralspot.se/feed/,
 1,Viralt,1,Aftonbladet,http://viralt.aftonbladet.se/,http://viralt.aftonbladet.se/feed/,
